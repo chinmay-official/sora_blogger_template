@@ -10,3 +10,5 @@ download and use :)
 github.com/3lack-D3vil 
 
 Templates 
+
+To know about Footer Credit visit: https://github.com/chinmay-official/Footer-Credit-Blogger
